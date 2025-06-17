@@ -19,7 +19,7 @@ CIANO="\033[1;36m"
 RESET="\033[0m"
 BOLD="\033[1m"
 UNDERLINE="\033[4m"
-
+:<< "END"
 # Banner
 echo -e "${ROXO}${BOLD}╔═════════════════════════════════════════╗${RESET}"
 echo -e "${BOLD} INSTALAÇÃO DO ${VERDE}FIGHTCADE2${RESET} ${BOLD}BATOCERA v40/v41"
@@ -50,7 +50,10 @@ while true; do
         echo ""
     fi
 done
+END
 
+
+clear
 sleep 5
 clear
 echo -e ${VERDE}"${BOLD}INSTALANDO O FIGHTCADE 2${RESET}"
