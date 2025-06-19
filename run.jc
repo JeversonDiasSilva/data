@@ -23,7 +23,7 @@ UNDERLINE="\033[4m"
 # Banner
 echo -e "${ROXO}${BOLD}╔═════════════════════════════════════════╗${RESET}"
 echo -e "${BOLD} INSTALAÇÃO DO ${VERDE}FIGHTCADE2${RESET} ${BOLD}BATOCERA v40/v41"
-echo -e "${AZUL}${BOLD} STREET FIGHTER V - CHAMPION EDITION${RESET}"
+echo -e "${AZUL}${BOLD} FIGHTCADE2 By RETROLUXXO${RESET}"
 echo -e "${ROXO}${BOLD} ${VERDE}SCRIPT By @JCGAMESCLASSICOS${RESET}"
 echo -e "${ROXO}${BOLD}╚═════════════════════════════════════════╝${RESET}"
 sleep 2
