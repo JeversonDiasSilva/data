@@ -1,12 +1,1 @@
-#192.168.18.10
-###xxxx.xxxx.xxxx.xxxx
-#0000.AAAA.1111.BBBB
-#9999.9999.9999.9999
-#0123456789
-#94sd58510
-#MGames
-#fightcade
-#GIMENA
-#000
-#Bruno
 jever
