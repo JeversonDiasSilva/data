@@ -5,3 +5,4 @@ MGames
 Pandora Linuxçl,pklĺk
 Leandro
 spyke
+Edgar
