@@ -4,4 +4,4 @@ spyke
 #Parceiros2026
 #linux
 manos
-Pedrao
+#Pedrao
