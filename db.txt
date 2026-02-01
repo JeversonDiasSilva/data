@@ -3,6 +3,6 @@ spyke
 #Bryan
 #Parceiros2026
 #linux
-#manos
+manos
 #Pedrao
 # PANDORA-LINUX
