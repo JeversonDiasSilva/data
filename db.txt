@@ -1,9 +1,2 @@
 spyke
-#testes
-#Bryan
-#Parceiros2026
-#linux
-#manos
-#Pedrao
-# PANDORA-LINUX
-#Clebinho
+Deisson
