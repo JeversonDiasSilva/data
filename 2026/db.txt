@@ -4,4 +4,4 @@ bisteca:43
 #pipoca:40
 Cool:40
 Jever:40
-jcgames
+jcgames:40
