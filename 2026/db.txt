@@ -1,5 +1,6 @@
 qweasd:42
 spyke:41
+pegasus:41
 bisteca:43
 #pipoca:40
 Cool:40
